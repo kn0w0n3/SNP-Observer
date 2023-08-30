@@ -19,3 +19,7 @@ rs12913832
 rs13447378    
 rs1015362    
 rs7192      
+
+## Resources:  
+
+https://www.ncbi.nlm.nih.gov/snp/  
