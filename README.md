@@ -10,7 +10,9 @@ Status: In progress
 Parse files containing Single Nucleotide Polymorphism (SNP) data from Ancestry, 23andMe, or data files in the same format. Extracted data will be displayed in the output window.  
 The current SNP search functions have not been refined or optimized yet and are currently for demo purposes only.  
 
-Search includes INDEL count  
+Search includes:
+SNP count  
+INDEL count  
 
 The demo SNP search includes:   
 rs12913832    
