@@ -22,5 +22,5 @@ rs7192
 
 ## Resources:  
 
-https://www.ncbi.nlm.nih.gov/snp/ 
+https://www.ncbi.nlm.nih.gov/snp/   
 https://medlineplus.gov/genetics/understanding/genomicresearch/snp/  
