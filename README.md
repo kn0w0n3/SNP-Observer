@@ -8,7 +8,7 @@ Parse raw SNP data files - Bioinformatics
 Parse files containing Single Nucleotide Polymorphism (SNP) data from Ancestry, 23andMe, or data files in the same format. Extracted data will be displayed in the output window.  
 The current SNP search functions have not been refined or optimized yet and are currently for demo purposes only.  
 
-Search includes:
+Search includes:  
 SNP count  
 INDEL count  
 
